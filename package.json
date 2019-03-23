@@ -1,0 +1,25 @@
+{
+  "name": "testxls2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raywon123/testxls2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raywon123/testxls2/issues"
+  },
+  "homepage": "https://github.com/raywon123/testxls2#readme",
+  "dependencies": {
+    "exceljs": "^1.7.0",
+    "express": "^4.16.4"
+  }
+}
